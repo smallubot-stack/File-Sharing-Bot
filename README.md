@@ -1,5 +1,4 @@
-[![Deploy To Heroku)(https://www.herokucdn.com/deploy/button .svg)](https://heroku.com/deploy?template=https://github.com/vss486074-lab/File-Sharing-Bot)
-
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vss486074-lab/File-Sharing-Bot&app-name=File-Sharing-Bot)
 
 # File-sharing-Bot
 
